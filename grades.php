@@ -10,5 +10,4 @@ $grades = array(
         "Subject" => "Science 101", "Grade" => "3.0", "Remarks" => "Very Good" 
     ),
 );
-
-echo json_encode($grades);
+?>
